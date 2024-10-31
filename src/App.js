@@ -15,7 +15,7 @@ import {
   Room,
   Services,
   Team,
-  Testimonial,
+  Testimonial,   
 } from "./pages/index";
 import Footer from "./components/common/Footer";
 export default function App() {
